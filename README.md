@@ -1,6 +1,6 @@
 # scrap-ua
 
-#User-Agent Scraper Tool
+#User-Agent Scrapper Tool
 
 
 Installation :-
